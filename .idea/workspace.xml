@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69bac85f-a31a-4b04-b1e4-7f2f1a398280" name="Changes" comment="" />
+    <list default="true" id="69bac85f-a31a-4b04-b1e4-7f2f1a398280" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/favorieten.php" beforeDir="false" afterPath="$PROJECT_DIR$/favorieten.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +14,12 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
@@ -28,6 +36,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "test-omgeving-erik",
+    "last_opened_file_path": "C:/xampp/htdocs/nerdy-gadgets",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +57,7 @@
       <updated>1699953935292</updated>
       <workItem from="1699953937813" duration="267000" />
       <workItem from="1699955353274" duration="6028000" />
+      <workItem from="1699966691372" duration="402000" />
     </task>
     <servers />
   </component>
