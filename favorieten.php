@@ -20,7 +20,6 @@ include "favorietenfuncties.php";
 </head>
 <body>
 <h1>Favorieten</h1>
-<h1>test</h1>
 <?php
 $favorites = getFavorite();
 $connection = connectToDatabase();
